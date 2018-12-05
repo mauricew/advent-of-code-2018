@@ -22,10 +22,10 @@ Subject to change.
 
 |Day|Language|
 |----|--------|
-|Day 1|Java|
-|Day 2|Python|
-|Day 3|C#|
-|Day 4|Ruby|
+|Day 1|[Java](day_1)|
+|Day 2|[Python](day_2)|
+|Day 3|[C#](day_3)|
+|Day 4|[Ruby](day_4)|
 |Day 5|PHP|
 |Day 6|JavaScript|
 |Day 7|Bash shell|
